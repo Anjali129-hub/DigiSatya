@@ -3,7 +3,7 @@
 This is a **Modern Real Estate portfolio website** built using **HTML, CSS, and JavaScript**.  
 It is fully responsive and showcases properties for selling and buying land, along with services and contact sections.
 
-**Live Demo:** [Click here to view](https://my-website-wheat-one.vercel.app)
+**Live Demo:** [Click here to view](https://digi-satya.vercel.app/)
 
 ## Features
 
